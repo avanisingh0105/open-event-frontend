@@ -1,0 +1,2088 @@
+{
+  "charset": "utf-8",
+  "headers": {
+    "project-id-version": "open-event-frontend",
+    "report-msgid-bugs-to": "open-event@googlegroups.com",
+    "pot-creation-date": "2019-01-31 16:31+0800",
+    "po-revision-date": "2020-10-26 09:55+0000",
+    "last-translator": "Areeb Jamal <jamal.areeb@gmail.com>",
+    "language-team": "German <https://hosted.weblate.org/projects/open-event/frontend/de/>",
+    "language": "de",
+    "mime-version": "1.0",
+    "content-type": "text/plain; charset=UTF-8",
+    "content-transfer-encoding": "8bit",
+    "plural-forms": "nplurals=2; plural=n != 1;",
+    "x-generator": "Weblate 4.3.2-dev",
+    "x-crowdin-project": "open-event-frontend",
+    "x-crowdin-language": "de",
+    "x-crowdin-file": "/development/translations/en.po"
+  },
+  "translations": {
+    "": {
+      "Accepted": {
+        "msgid": "Accepted",
+        "msgstr": [
+          "Akzeptiert"
+        ]
+      },
+      "Access Code": {
+        "msgid": "Access Code",
+        "msgstr": [
+          "Zugangsdaten"
+        ]
+      },
+      "Access Codes": {
+        "msgid": "Access Codes",
+        "msgstr": [
+          "Zugangsdaten"
+        ]
+      },
+      "Access event information via REST API": {
+        "msgid": "Access event information via REST API",
+        "msgstr": [
+          "Zugriff auf Veranstaltungsinformationen über die REST-API"
+        ]
+      },
+      "Access Link": {
+        "msgid": "Access Link",
+        "msgstr": [
+          "Zugangslink"
+        ]
+      },
+      "Actions": {
+        "msgid": "Actions",
+        "msgstr": [
+          "Aktionen"
+        ]
+      },
+      "Active": {
+        "msgid": "Active",
+        "msgstr": [
+          "Aktiv"
+        ]
+      },
+      "Active Users": {
+        "msgid": "Active Users",
+        "msgstr": [
+          "Aktive Benutzer"
+        ]
+      },
+      "Activity": {
+        "msgid": "Activity",
+        "msgstr": [
+          "Aktivität"
+        ]
+      },
+      "Add": {
+        "msgid": "Add",
+        "msgstr": [
+          "Hinzufügen"
+        ]
+      },
+      "Add new Role": {
+        "msgid": "Add new Role",
+        "msgstr": [
+          "Neue Funktion hinzufügen"
+        ]
+      },
+      "Add Order": {
+        "msgid": "Add Order",
+        "msgstr": [
+          "Bestellung hinzufügen"
+        ]
+      },
+      "Add People": {
+        "msgid": "Add People",
+        "msgstr": [
+          "Personen hinzufügen"
+        ]
+      },
+      "Add Role": {
+        "msgid": "Add Role",
+        "msgstr": [
+          "Funktion hinzufügen"
+        ]
+      },
+      "Add Speaker": {
+        "msgid": "Add Speaker",
+        "msgstr": [
+          "Referent hinzufügen"
+        ]
+      },
+      "Add tax as separate fee on top of the price": {
+        "msgid": "Add tax as separate fee on top of the price",
+        "msgstr": [
+          "Mehrwertsteuer als separate Gebühr zusätzlich zum Preis hinzufügen"
+        ]
+      },
+      "Address": {
+        "msgid": "Address",
+        "msgstr": [
+          "Adressse"
+        ]
+      },
+      "Admin": {
+        "msgid": "Admin",
+        "msgstr": [
+          "Administrator"
+        ]
+      },
+      "All": {
+        "msgid": "All",
+        "msgstr": [
+          "Alle"
+        ]
+      },
+      "All Categories": {
+        "msgid": "All Categories",
+        "msgstr": [
+          "Alle Kategorien"
+        ]
+      },
+      "All Dates": {
+        "msgid": "All Dates",
+        "msgstr": [
+          "Alle Termine"
+        ]
+      },
+      "All Events": {
+        "msgid": "All Events",
+        "msgstr": [
+          "Alle Veranstaltungen"
+        ]
+      },
+      "All Live": {
+        "msgid": "All Live",
+        "msgstr": [
+          "Alle Live"
+        ]
+      },
+      "All Past": {
+        "msgid": "All Past",
+        "msgstr": [
+          "Alle Vergangenen"
+        ]
+      },
+      "All Users": {
+        "msgid": "All Users",
+        "msgstr": [
+          "Alle Benutzer"
+        ]
+      },
+      "Analytics": {
+        "msgid": "Analytics",
+        "msgstr": [
+          "Analysen"
+        ]
+      },
+      "Announcement": {
+        "msgid": "Announcement",
+        "msgstr": [
+          "Ankündigung"
+        ]
+      },
+      "Anonymous User": {
+        "msgid": "Anonymous User",
+        "msgstr": [
+          "Anonymer Benutzer"
+        ]
+      },
+      "App Environment": {
+        "msgid": "App Environment",
+        "msgstr": [
+          "App-Umgebung"
+        ]
+      },
+      "Attendees": {
+        "msgid": "Attendees",
+        "msgstr": [
+          "Teilnehmer"
+        ]
+      },
+      "Background Header Image in Public Event Page": {
+        "msgid": "Background Header Image in Public Event Page",
+        "msgstr": [
+          "Hintergrundkopfzeilenbild in der öffentlichen Veranstaltungsseite"
+        ]
+      },
+      "Basic Details": {
+        "msgid": "Basic Details",
+        "msgstr": [
+          "Allgemeine Informationen"
+        ]
+      },
+      "Basic Event Details": {
+        "msgid": "Basic Event Details",
+        "msgstr": [
+          "Grundlegende Veranstaltungsdetails"
+        ]
+      },
+      "Billing Information": {
+        "msgid": "Billing Information",
+        "msgstr": [
+          "Zahlungsinformationen"
+        ]
+      },
+      "Browse Events": {
+        "msgid": "Browse Events",
+        "msgstr": [
+          "Veranstaltungen Ansehen"
+        ]
+      },
+      "Bucket name": {
+        "msgid": "Bucket name",
+        "msgstr": [
+          "Bereichsname"
+        ]
+      },
+      "Business Address": {
+        "msgid": "Business Address",
+        "msgstr": [
+          "Firmenanschrift"
+        ]
+      },
+      "Call for Speakers": {
+        "msgid": "Call for Speakers",
+        "msgstr": [
+          "Aufruf für Vortragende"
+        ]
+      },
+      "Cancel": {
+        "msgid": "Cancel",
+        "msgstr": [
+          "Abbrechen"
+        ]
+      },
+      "Cancelled": {
+        "msgid": "Cancelled",
+        "msgstr": [
+          "Storniert"
+        ]
+      },
+      "Card Number": {
+        "msgid": "Card Number",
+        "msgstr": [
+          "Kartennummer"
+        ]
+      },
+      "Categories": {
+        "msgid": "Categories",
+        "msgstr": [
+          "Kategorien"
+        ]
+      },
+      "Change": {
+        "msgid": "Change",
+        "msgstr": [
+          "Ändern"
+        ]
+      },
+      "Checked In": {
+        "msgid": "Checked In",
+        "msgstr": [
+          "Eingecheckt"
+        ]
+      },
+      "Cheque": {
+        "msgid": "Cheque",
+        "msgstr": [
+          "Scheck"
+        ]
+      },
+      "City": {
+        "msgid": "City",
+        "msgstr": [
+          "Stadt"
+        ]
+      },
+      "click here": {
+        "msgid": "click here",
+        "msgstr": [
+          "Hier klicken"
+        ]
+      },
+      "Client secret": {
+        "msgid": "Client secret",
+        "msgstr": [
+          "Kundengeheimnis"
+        ]
+      },
+      "Closed": {
+        "msgid": "Closed",
+        "msgstr": [
+          "Geschlossen"
+        ]
+      },
+      "Code of Conduct": {
+        "msgid": "Code of Conduct",
+        "msgstr": [
+          "Verhaltensrichtlinien"
+        ]
+      },
+      "Comments": {
+        "msgid": "Comments",
+        "msgstr": [
+          "Kommentare"
+        ]
+      },
+      "Completed": {
+        "msgid": "Completed",
+        "msgstr": [
+          "Abgeschlossen"
+        ]
+      },
+      "Completed Orders": {
+        "msgid": "Completed Orders",
+        "msgstr": [
+          "Abgeschlossene Bestellungen"
+        ]
+      },
+      "Confirmed": {
+        "msgid": "Confirmed",
+        "msgstr": [
+          "Bestätigt"
+        ]
+      },
+      "Connect with Stripe": {
+        "msgid": "Connect with Stripe",
+        "msgstr": [
+          "Mit Stripe verbinden"
+        ]
+      },
+      "Connect With Us": {
+        "msgid": "Connect With Us",
+        "msgstr": [
+          "Mit uns Verbinden"
+        ]
+      },
+      "Content": {
+        "msgid": "Content",
+        "msgstr": [
+          "Inhalt"
+        ]
+      },
+      "Continue": {
+        "msgid": "Continue",
+        "msgstr": [
+          "Weiter"
+        ]
+      },
+      "Copy": {
+        "msgid": "Copy",
+        "msgstr": [
+          "Kopieren"
+        ]
+      },
+      "Country": {
+        "msgid": "Country",
+        "msgstr": [
+          "Land"
+        ]
+      },
+      "Create a discount": {
+        "msgid": "Create a discount",
+        "msgstr": [
+          "Preisnachlass erstellen"
+        ]
+      },
+      "Create Event": {
+        "msgid": "Create Event",
+        "msgstr": [
+          "Ereignis erstellen"
+        ]
+      },
+      "Create Page": {
+        "msgid": "Create Page",
+        "msgstr": [
+          "Seite erstellen"
+        ]
+      },
+      "Create Session": {
+        "msgid": "Create Session",
+        "msgstr": [
+          "Sitzung erstellen"
+        ]
+      },
+      "Current Password": {
+        "msgid": "Current Password",
+        "msgstr": [
+          "Aktuelles Passwort"
+        ]
+      },
+      "Date": {
+        "msgid": "Date",
+        "msgstr": [
+          "Datum"
+        ]
+      },
+      "Delete": {
+        "msgid": "Delete",
+        "msgstr": [
+          "Löschen"
+        ]
+      },
+      "Deleted": {
+        "msgid": "Deleted",
+        "msgstr": [
+          "Gelöscht"
+        ]
+      },
+      "Deleted Users": {
+        "msgid": "Deleted Users",
+        "msgstr": [
+          "Gelöschter Benutzer"
+        ]
+      },
+      "Deleting the event will delete all the data associated with it.": {
+        "msgid": "Deleting the event will delete all the data associated with it.",
+        "msgstr": [
+          "Durch das Löschen der Veranstaltung werden alle damit verbundenen Daten gelöscht."
+        ]
+      },
+      "Description": {
+        "msgid": "Description",
+        "msgstr": [
+          "Beschreibung"
+        ]
+      },
+      "Development": {
+        "msgid": "Development",
+        "msgstr": [
+          "Entwicklung"
+        ]
+      },
+      "Discount": {
+        "msgid": "Discount",
+        "msgstr": [
+          "Ermäßigung"
+        ]
+      },
+      "Discount Code": {
+        "msgid": "Discount Code",
+        "msgstr": [
+          "Rabattcode"
+        ]
+      },
+      "Discount Codes": {
+        "msgid": "Discount Codes",
+        "msgstr": [
+          "Rabattcodes"
+        ]
+      },
+      "Discount Link": {
+        "msgid": "Discount Link",
+        "msgstr": [
+          "Rabatt-Link"
+        ]
+      },
+      "Display this publicly. Anybody will be able to submit a proposal within the dates chosen, once the event is published.": {
+        "msgid": "Display this publicly. Anybody will be able to submit a proposal within the dates chosen, once the event is published.",
+        "msgstr": [
+          "Öffentlich anzeigen. Jeder kann innerhalb der gewählten Fristen, sobald die Veranstaltung veröffentlicht ist, einen Vorschlag einreichen."
+        ]
+      },
+      "Display Ticket description on Public Events page": {
+        "msgid": "Display Ticket description on Public Events page",
+        "msgstr": [
+          "Ticketbeschreibung auf der Seite „Public Events\" anzeigen"
+        ]
+      },
+      "Do not display this publicly. Proposals can be submitted only using the private link.": {
+        "msgid": "Do not display this publicly. Proposals can be submitted only using the private link.",
+        "msgstr": [
+          "Nicht öffentlich anzeigen. Vorschläge können nur über den privaten Link eingereicht werden."
+        ]
+      },
+      "do not list this event publicly": {
+        "msgid": "do not list this event publicly",
+        "msgstr": [
+          "diese Veranstaltung nicht öffentlich anzeigen"
+        ]
+      },
+      "Document": {
+        "msgid": "Document",
+        "msgstr": [
+          "Dokument"
+        ]
+      },
+      "Download": {
+        "msgid": "Download",
+        "msgstr": [
+          "Herunterladen"
+        ]
+      },
+      "Download .PO files": {
+        "msgid": "Download .PO files",
+        "msgstr": [
+          ".PO-Dateien herunterladen"
+        ]
+      },
+      "Download Invoice": {
+        "msgid": "Download Invoice",
+        "msgstr": [
+          "Rechnung herunterladen"
+        ]
+      },
+      "Download Tickets": {
+        "msgid": "Download Tickets",
+        "msgstr": [
+          "Tickets herunterladen"
+        ]
+      },
+      "Draft": {
+        "msgid": "Draft",
+        "msgstr": [
+          "Entwurf"
+        ]
+      },
+      "Edit": {
+        "msgid": "Edit",
+        "msgstr": [
+          "Bearbeiten"
+        ]
+      },
+      "Edit Event": {
+        "msgid": "Edit Event",
+        "msgstr": [
+          "Veranstaltung bearbeiten"
+        ]
+      },
+      "Edit Role": {
+        "msgid": "Edit Role",
+        "msgstr": [
+          "Funktion bearbeiten"
+        ]
+      },
+      "Edit Session": {
+        "msgid": "Edit Session",
+        "msgstr": [
+          "Sitzung bearbeiten"
+        ]
+      },
+      "Email": {
+        "msgid": "Email",
+        "msgstr": [
+          "E-Mail"
+        ]
+      },
+      "Encryption": {
+        "msgid": "Encryption",
+        "msgstr": [
+          "Verschlüsselung"
+        ]
+      },
+      "End Time": {
+        "msgid": "End Time",
+        "msgstr": [
+          "Endzeit"
+        ]
+      },
+      "Ends": {
+        "msgid": "Ends",
+        "msgstr": [
+          "Endet"
+        ]
+      },
+      "Enter Discount": {
+        "msgid": "Enter Discount",
+        "msgstr": [
+          "Ermäßigung eingeben"
+        ]
+      },
+      "Enter promotional code": {
+        "msgid": "Enter promotional code",
+        "msgstr": [
+          "Aktionscode eingeben"
+        ]
+      },
+      "Event": {
+        "msgid": "Event",
+        "msgstr": [
+          "Veranstaltung"
+        ]
+      },
+      "Event Date": {
+        "msgid": "Event Date",
+        "msgstr": [
+          "Veranstaltungsdatum"
+        ]
+      },
+      "Event Images": {
+        "msgid": "Event Images",
+        "msgstr": [
+          "Veranstaltungsbilder"
+        ]
+      },
+      "Event Name": {
+        "msgid": "Event Name",
+        "msgstr": [
+          "Name der Veranstaltung"
+        ]
+      },
+      "Event Public Page": {
+        "msgid": "Event Public Page",
+        "msgstr": [
+          "Öffentliche Veranstaltungsseite"
+        ]
+      },
+      "Event Roles": {
+        "msgid": "Event Roles",
+        "msgstr": [
+          "Veranstaltungsfunktionen"
+        ]
+      },
+      "Event Type": {
+        "msgid": "Event Type",
+        "msgstr": [
+          "Veranstaltungstyp"
+        ]
+      },
+      "Events": {
+        "msgid": "Events",
+        "msgstr": [
+          "Veranstaltungen"
+        ]
+      },
+      "Exp Date": {
+        "msgid": "Exp Date",
+        "msgstr": [
+          "Ablaufdatum"
+        ]
+      },
+      "Expired": {
+        "msgid": "Expired",
+        "msgstr": [
+          "Verfallen"
+        ]
+      },
+      "Expires on": {
+        "msgid": "Expires on",
+        "msgstr": [
+          "Verfällt am"
+        ]
+      },
+      "Explore": {
+        "msgid": "Explore",
+        "msgstr": [
+          "Erkunden"
+        ]
+      },
+      "Export": {
+        "msgid": "Export",
+        "msgstr": [
+          "Exportieren"
+        ]
+      },
+      "Export As": {
+        "msgid": "Export As",
+        "msgstr": [
+          "Exportieren als"
+        ]
+      },
+      "Family Name": {
+        "msgid": "Family Name",
+        "msgstr": [
+          "Nachname"
+        ]
+      },
+      "Fee": {
+        "msgid": "Fee",
+        "msgstr": [
+          "Gebühren"
+        ]
+      },
+      "Filter by Date": {
+        "msgid": "Filter by Date",
+        "msgstr": [
+          "Nach Datum filtern"
+        ]
+      },
+      "Filter by Discount": {
+        "msgid": "Filter by Discount",
+        "msgstr": [
+          "Nach Rabatt filtern"
+        ]
+      },
+      "Find Events": {
+        "msgid": "Find Events",
+        "msgstr": [
+          "Veranstaltungen suchen"
+        ]
+      },
+      "First Name": {
+        "msgid": "First Name",
+        "msgstr": [
+          "Vorname"
+        ]
+      },
+      "Forgot Password": {
+        "msgid": "Forgot Password",
+        "msgstr": [
+          "Passwort vergessen"
+        ]
+      },
+      "Free Ticket": {
+        "msgid": "Free Ticket",
+        "msgstr": [
+          "Kostenloses Ticket"
+        ]
+      },
+      "From Email": {
+        "msgid": "From Email",
+        "msgstr": [
+          "Von E-Mail-Adresse"
+        ]
+      },
+      "From Name": {
+        "msgid": "From Name",
+        "msgstr": [
+          "Von Name"
+        ]
+      },
+      "Generate Android App": {
+        "msgid": "Generate Android App",
+        "msgstr": [
+          "Android App erstellen"
+        ]
+      },
+      "Generate Web App": {
+        "msgid": "Generate Web App",
+        "msgstr": [
+          "Web-App erstellen"
+        ]
+      },
+      "Getting Here": {
+        "msgid": "Getting Here",
+        "msgstr": [
+          "Anfahrtsbeschreibung"
+        ]
+      },
+      "Google Storage": {
+        "msgid": "Google Storage",
+        "msgstr": [
+          "Google Speicher"
+        ]
+      },
+      "Google Tokens": {
+        "msgid": "Google Tokens",
+        "msgstr": [
+          "Google Token"
+        ]
+      },
+      "Grand Total": {
+        "msgid": "Grand Total",
+        "msgstr": [
+          "Gesamtmenge"
+        ]
+      },
+      "here": {
+        "msgid": "here",
+        "msgstr": [
+          "hier"
+        ]
+      },
+      "Home Page Event Images": {
+        "msgid": "Home Page Event Images",
+        "msgstr": [
+          "Veranstaltungsbilder der Startseite"
+        ]
+      },
+      "Icon Size": {
+        "msgid": "Icon Size",
+        "msgstr": [
+          "Symbolgröße"
+        ]
+      },
+      "Image": {
+        "msgid": "Image",
+        "msgstr": [
+          "Bild"
+        ]
+      },
+      "Images": {
+        "msgid": "Images",
+        "msgstr": [
+          "Bilder"
+        ]
+      },
+      "Import": {
+        "msgid": "Import",
+        "msgstr": [
+          "Importieren"
+        ]
+      },
+      "Import Event": {
+        "msgid": "Import Event",
+        "msgstr": [
+          "Veranstaltung laden"
+        ]
+      },
+      "In last 1 month": {
+        "msgid": "In last 1 month",
+        "msgstr": [
+          "Im letzten Monat"
+        ]
+      },
+      "In last 24 hours": {
+        "msgid": "In last 24 hours",
+        "msgstr": [
+          "In den letzten 24 Stunden"
+        ]
+      },
+      "In last 3 days": {
+        "msgid": "In last 3 days",
+        "msgstr": [
+          "In den letzten 3 Tagen"
+        ]
+      },
+      "In last 7 days": {
+        "msgid": "In last 7 days",
+        "msgstr": [
+          "In den letzten 7 Tagen"
+        ]
+      },
+      "Inactive": {
+        "msgid": "Inactive",
+        "msgstr": [
+          "Inaktiv"
+        ]
+      },
+      "Include": {
+        "msgid": "Include",
+        "msgstr": [
+          "Einschließen"
+        ]
+      },
+      "Include tax in ticket price": {
+        "msgid": "Include tax in ticket price",
+        "msgstr": [
+          "Ticketpreis (einschließlich Mehrwertsteuer)"
+        ]
+      },
+      "Interoperable access key": {
+        "msgid": "Interoperable access key",
+        "msgstr": [
+          "Miteinander kompatible Zugriffsschlüssel"
+        ]
+      },
+      "Interoperable access secret": {
+        "msgid": "Interoperable access secret",
+        "msgstr": [
+          "Miteinander kompatibles Zugriffsgeheimnis"
+        ]
+      },
+      "Invited": {
+        "msgid": "Invited",
+        "msgstr": [
+          "Eingeladene"
+        ]
+      },
+      "Key": {
+        "msgid": "Key",
+        "msgstr": [
+          "Schlüssel"
+        ]
+      },
+      "Language": {
+        "msgid": "Language",
+        "msgstr": [
+          "Sprache"
+        ]
+      },
+      "Large Size": {
+        "msgid": "Large Size",
+        "msgstr": [
+          "Großformat"
+        ]
+      },
+      "Last Name": {
+        "msgid": "Last Name",
+        "msgstr": [
+          "Nachname"
+        ]
+      },
+      "Level": {
+        "msgid": "Level",
+        "msgstr": [
+          "Ebene"
+        ]
+      },
+      "Links and Social Media": {
+        "msgid": "Links and Social Media",
+        "msgstr": [
+          "Links und Soziale Medien"
+        ]
+      },
+      "Listing Privacy": {
+        "msgid": "Listing Privacy",
+        "msgstr": [
+          "Datenschutzerklärung anzeigen"
+        ]
+      },
+      "Live": {
+        "msgid": "Live",
+        "msgstr": [
+          "Wohnen"
+        ]
+      },
+      "Live mode - Used during production": {
+        "msgid": "Live mode - Used during production",
+        "msgstr": [
+          "Live-Modus - Wird während der Produktion verwendet"
+        ]
+      },
+      "Local": {
+        "msgid": "Local",
+        "msgstr": [
+          "Lokal"
+        ]
+      },
+      "Location": {
+        "msgid": "Location",
+        "msgstr": [
+          "Ort"
+        ]
+      },
+      "Logout": {
+        "msgid": "Logout",
+        "msgstr": [
+          "Abmelden"
+        ]
+      },
+      "Mail Settings": {
+        "msgid": "Mail Settings",
+        "msgstr": [
+          "E-Mail-Einstellungen"
+        ]
+      },
+      "Mails": {
+        "msgid": "Mails",
+        "msgstr": [
+          "Nachrichten"
+        ]
+      },
+      "Manage Events": {
+        "msgid": "Manage Events",
+        "msgstr": [
+          "Veranstaltungen Verwalten"
+        ]
+      },
+      "Mark as read": {
+        "msgid": "Mark as read",
+        "msgstr": [
+          "Als Gelesen Markieren"
+        ]
+      },
+      "Marketer": {
+        "msgid": "Marketer",
+        "msgstr": [
+          "Vermarkter"
+        ]
+      },
+      "Max": {
+        "msgid": "Max",
+        "msgstr": [
+          "Höchst"
+        ]
+      },
+      "Maximum Fee": {
+        "msgid": "Maximum Fee",
+        "msgstr": [
+          "Maximale Nutzungsgebühr"
+        ]
+      },
+      "Maximum Order": {
+        "msgid": "Maximum Order",
+        "msgstr": [
+          "Maximale Bestellmenge"
+        ]
+      },
+      "Messages": {
+        "msgid": "Messages",
+        "msgstr": [
+          "Nachrichten"
+        ]
+      },
+      "Microlocations": {
+        "msgid": "Microlocations",
+        "msgstr": [
+          "Nahzonenortungen"
+        ]
+      },
+      "Microservices": {
+        "msgid": "Microservices",
+        "msgstr": [
+          "Mikrodienste"
+        ]
+      },
+      "Min": {
+        "msgid": "Min",
+        "msgstr": [
+          "Mindest"
+        ]
+      },
+      "Minimum Order": {
+        "msgid": "Minimum Order",
+        "msgstr": [
+          "Mindestbestellmenge"
+        ]
+      },
+      "My Session Page Event Images": {
+        "msgid": "My Session Page Event Images",
+        "msgstr": [
+          "Veranstaltungsbilder meiner Sitzungsseite"
+        ]
+      },
+      "My Sessions": {
+        "msgid": "My Sessions",
+        "msgstr": [
+          "Meine Sitzungen"
+        ]
+      },
+      "My Ticket Page Event Images": {
+        "msgid": "My Ticket Page Event Images",
+        "msgstr": [
+          "Veranstaltungsbilder auf meiner Ticketseite"
+        ]
+      },
+      "My Tickets": {
+        "msgid": "My Tickets",
+        "msgstr": [
+          "Meine Tickets"
+        ]
+      },
+      "New Password": {
+        "msgid": "New Password",
+        "msgstr": [
+          "Neues Passwort"
+        ]
+      },
+      "Next Week": {
+        "msgid": "Next Week",
+        "msgstr": [
+          "Nächste Woche"
+        ]
+      },
+      "No new notifications": {
+        "msgid": "No new notifications",
+        "msgstr": [
+          "Keine neuen Nachrichten"
+        ]
+      },
+      "No Ticket Information": {
+        "msgid": "No Ticket Information",
+        "msgstr": [
+          "Keine Ticket-Informationen"
+        ]
+      },
+      "No. of Sent Mails": {
+        "msgid": "No. of Sent Mails",
+        "msgstr": [
+          "Anzahl gesendeter Nachrichten"
+        ]
+      },
+      "Not Checked In": {
+        "msgid": "Not Checked In",
+        "msgstr": [
+          "Nicht eingecheckt"
+        ]
+      },
+      "Notifications": {
+        "msgid": "Notifications",
+        "msgstr": [
+          "Benachrichtigungen"
+        ]
+      },
+      "Number of Events": {
+        "msgid": "Number of Events",
+        "msgstr": [
+          "Anzahl der Veranstaltungen"
+        ]
+      },
+      "Number of Sessions": {
+        "msgid": "Number of Sessions",
+        "msgstr": [
+          "Anzahl der Sitzungen"
+        ]
+      },
+      "Number of tickets allowed per order": {
+        "msgid": "Number of tickets allowed per order",
+        "msgstr": [
+          "Anzahl der erlaubten Tickets je Bestellung"
+        ]
+      },
+      "Offline Payments": {
+        "msgid": "Offline Payments",
+        "msgstr": [
+          "Offline-Zahlungen"
+        ]
+      },
+      "on": {
+        "msgid": "on",
+        "msgstr": [
+          "am"
+        ]
+      },
+      "Open": {
+        "msgid": "Open",
+        "msgstr": [
+          "Geöffnet"
+        ]
+      },
+      "Options": {
+        "msgid": "Options",
+        "msgstr": [
+          "Optionen"
+        ]
+      },
+      "Order Now": {
+        "msgid": "Order Now",
+        "msgstr": [
+          "Jetzt bestellen"
+        ]
+      },
+      "Order Status": {
+        "msgid": "Order Status",
+        "msgstr": [
+          "Auftragsstatus"
+        ]
+      },
+      "Order Summary": {
+        "msgid": "Order Summary",
+        "msgstr": [
+          "Bestellübersicht"
+        ]
+      },
+      "Orders": {
+        "msgid": "Orders",
+        "msgstr": [
+          "Bestellungen"
+        ]
+      },
+      "Organized by": {
+        "msgid": "Organized by",
+        "msgstr": [
+          "Veranstaltet durch"
+        ]
+      },
+      "Organizer": {
+        "msgid": "Organizer",
+        "msgstr": [
+          "Veranstalter"
+        ]
+      },
+      "Pages": {
+        "msgid": "Pages",
+        "msgstr": [
+          "Seiten"
+        ]
+      },
+      "Paid Ticket": {
+        "msgid": "Paid Ticket",
+        "msgstr": [
+          "Bezahltes Ticket"
+        ]
+      },
+      "Password": {
+        "msgid": "Password",
+        "msgstr": [
+          "Passwort"
+        ]
+      },
+      "Past": {
+        "msgid": "Past",
+        "msgstr": [
+          "Vergangene"
+        ]
+      },
+      "Payment by PayPal": {
+        "msgid": "Payment by PayPal",
+        "msgstr": [
+          "Bezahlung per PayPal"
+        ]
+      },
+      "Payment by Stripe": {
+        "msgid": "Payment by Stripe",
+        "msgstr": [
+          "Bezahlung per Stripe"
+        ]
+      },
+      "Payment Gateways": {
+        "msgid": "Payment Gateways",
+        "msgstr": [
+          "Zahlungssysteme"
+        ]
+      },
+      "Payment Information": {
+        "msgid": "Payment Information",
+        "msgstr": [
+          "Zahlungsinformationen"
+        ]
+      },
+      "Pending": {
+        "msgid": "Pending",
+        "msgstr": [
+          "Ausstehend"
+        ]
+      },
+      "Pending Orders": {
+        "msgid": "Pending Orders",
+        "msgstr": [
+          "Ausstehende Bestellungen"
+        ]
+      },
+      "Permission": {
+        "msgid": "Permission",
+        "msgstr": [
+          "Berechtigungen"
+        ]
+      },
+      "Permissions": {
+        "msgid": "Permissions",
+        "msgstr": [
+          "Berechtigung"
+        ]
+      },
+      "Phone": {
+        "msgid": "Phone",
+        "msgstr": [
+          "Telefon"
+        ]
+      },
+      "Placed": {
+        "msgid": "Placed",
+        "msgstr": [
+          "Platziert"
+        ]
+      },
+      "Placed Orders": {
+        "msgid": "Placed Orders",
+        "msgstr": [
+          "Ausgeführte Bestellungen"
+        ]
+      },
+      "Please enter the full name of the event to continue": {
+        "msgid": "Please enter the full name of the event to continue",
+        "msgstr": [
+          "Bitte geben Sie den vollständigen Namen der Veranstaltung ein, um fortzufahren"
+        ]
+      },
+      "Previous": {
+        "msgid": "Previous",
+        "msgstr": [
+          "Zurück"
+        ]
+      },
+      "Price": {
+        "msgid": "Price",
+        "msgstr": [
+          "Preis"
+        ]
+      },
+      "Private": {
+        "msgid": "Private",
+        "msgstr": [
+          "Privat"
+        ]
+      },
+      "Production": {
+        "msgid": "Production",
+        "msgstr": [
+          "Produktion"
+        ]
+      },
+      "Profile": {
+        "msgid": "Profile",
+        "msgstr": [
+          "Profil"
+        ]
+      },
+      "Profile/Speaker Images": {
+        "msgid": "Profile/Speaker Images",
+        "msgstr": [
+          "Profil-/Referent-Foto"
+        ]
+      },
+      "Public": {
+        "msgid": "Public",
+        "msgstr": [
+          "Öffentlich"
+        ]
+      },
+      "Publish": {
+        "msgid": "Publish",
+        "msgstr": [
+          "Veröffentlichen"
+        ]
+      },
+      "Publish Schedule": {
+        "msgid": "Publish Schedule",
+        "msgstr": [
+          "Zeitplan veröffentlichen"
+        ]
+      },
+      "Publishable Key": {
+        "msgid": "Publishable Key",
+        "msgstr": [
+          "Veröffentlichbarer Schlüssel"
+        ]
+      },
+      "Quantity": {
+        "msgid": "Quantity",
+        "msgstr": [
+          "Anzahl"
+        ]
+      },
+      "Register": {
+        "msgid": "Register",
+        "msgstr": [
+          "Registrieren"
+        ]
+      },
+      "Registered Company": {
+        "msgid": "Registered Company",
+        "msgstr": [
+          "Eingetragene Firma"
+        ]
+      },
+      "Registration Information": {
+        "msgid": "Registration Information",
+        "msgstr": [
+          "Anmeldeinformationen"
+        ]
+      },
+      "Rejected": {
+        "msgid": "Rejected",
+        "msgstr": [
+          "Abgelehnt"
+        ]
+      },
+      "Remove": {
+        "msgid": "Remove",
+        "msgstr": [
+          "Entfernen"
+        ]
+      },
+      "Remove Filters": {
+        "msgid": "Remove Filters",
+        "msgstr": [
+          "Filter entfernen"
+        ]
+      },
+      "Repeat Password": {
+        "msgid": "Repeat Password",
+        "msgstr": [
+          "Passwort wiederholen"
+        ]
+      },
+      "Reports": {
+        "msgid": "Reports",
+        "msgstr": [
+          "Berichte"
+        ]
+      },
+      "Require": {
+        "msgid": "Require",
+        "msgstr": [
+          "Erforderlich"
+        ]
+      },
+      "Reset Password": {
+        "msgid": "Reset Password",
+        "msgstr": [
+          "Passwort Zurücksetzen"
+        ]
+      },
+      "Response": {
+        "msgid": "Response",
+        "msgstr": [
+          "Antwort"
+        ]
+      },
+      "Revenue": {
+        "msgid": "Revenue",
+        "msgstr": [
+          "Einnahmen"
+        ]
+      },
+      "Role": {
+        "msgid": "Role",
+        "msgstr": [
+          "Funktion"
+        ]
+      },
+      "Sales": {
+        "msgid": "Sales",
+        "msgstr": [
+          "Verkäufe"
+        ]
+      },
+      "Save": {
+        "msgid": "Save",
+        "msgstr": [
+          "Speichern"
+        ]
+      },
+      "Save Session": {
+        "msgid": "Save Session",
+        "msgstr": [
+          "Sitzung speichern"
+        ]
+      },
+      "Scheduler": {
+        "msgid": "Scheduler",
+        "msgstr": [
+          "Planer"
+        ]
+      },
+      "Search": {
+        "msgid": "Search",
+        "msgstr": [
+          "Suche"
+        ]
+      },
+      "Secret": {
+        "msgid": "Secret",
+        "msgstr": [
+          "Geheimnis"
+        ]
+      },
+      "Secret Key": {
+        "msgid": "Secret Key",
+        "msgstr": [
+          "Geheimer Schlüssel"
+        ]
+      },
+      "See": {
+        "msgid": "See",
+        "msgstr": [
+          "Siehe"
+        ]
+      },
+      "Select": {
+        "msgid": "Select",
+        "msgstr": [
+          "Auswählen"
+        ]
+      },
+      "Select country": {
+        "msgid": "Select country",
+        "msgstr": [
+          "Land auswählen"
+        ]
+      },
+      "Select event source file to import": {
+        "msgid": "Select event source file to import",
+        "msgstr": [
+          "Wähle Veranstaltungsquelldatei zum Laden"
+        ]
+      },
+      "Select Ticket(s) applied to the discount code": {
+        "msgid": "Select Ticket(s) applied to the discount code",
+        "msgstr": [
+          "Tickets auswählen, auf die der Rabattcode angewendet werden soll"
+        ]
+      },
+      "Send tax invoice to attendees": {
+        "msgid": "Send tax invoice to attendees",
+        "msgstr": [
+          "Steuerrechnung an Teilnehmer senden"
+        ]
+      },
+      "Sendgrid API": {
+        "msgid": "Sendgrid API",
+        "msgstr": [
+          "SendGrid-API"
+        ]
+      },
+      "Sendgrid Token": {
+        "msgid": "Sendgrid Token",
+        "msgstr": [
+          "SendGrid-Token"
+        ]
+      },
+      "Service Fee": {
+        "msgid": "Service Fee",
+        "msgstr": [
+          "Servicepauschale"
+        ]
+      },
+      "Session": {
+        "msgid": "Session",
+        "msgstr": [
+          "Sitzung"
+        ]
+      },
+      "Session Details": {
+        "msgid": "Session Details",
+        "msgstr": [
+          "Sitzungsdetails"
+        ]
+      },
+      "Session Not Yet Scheduled": {
+        "msgid": "Session Not Yet Scheduled",
+        "msgstr": [
+          "Noch nicht geplante Sitzung"
+        ]
+      },
+      "Session Types": {
+        "msgid": "Session Types",
+        "msgstr": [
+          "Sitzungsarten"
+        ]
+      },
+      "Sessions": {
+        "msgid": "Sessions",
+        "msgstr": [
+          "Sitzungen"
+        ]
+      },
+      "Settings": {
+        "msgid": "Settings",
+        "msgstr": [
+          "Einstellungen"
+        ]
+      },
+      "Share this event": {
+        "msgid": "Share this event",
+        "msgstr": [
+          "Diese Veranstaltung teilen"
+        ]
+      },
+      "Short Abstract": {
+        "msgid": "Short Abstract",
+        "msgstr": [
+          "Kurze Zusammenfassung"
+        ]
+      },
+      "Show map on event page": {
+        "msgid": "Show map on event page",
+        "msgstr": [
+          "Landkarte auf der Veranstaltungsseite anzeigen"
+        ]
+      },
+      "Sign In": {
+        "msgid": "Sign In",
+        "msgstr": [
+          "Anmelden"
+        ]
+      },
+      "Small Size": {
+        "msgid": "Small Size",
+        "msgstr": [
+          "Geringe Größe"
+        ]
+      },
+      "Social Links": {
+        "msgid": "Social Links",
+        "msgstr": [
+          "Soziale Netzwerke"
+        ]
+      },
+      "Speaker Details": {
+        "msgid": "Speaker Details",
+        "msgstr": [
+          "Referenten-Details"
+        ]
+      },
+      "Speaker Tab in Event Dashboard": {
+        "msgid": "Speaker Tab in Event Dashboard",
+        "msgstr": [
+          "Referenten-Tab in der Veranstaltungsübersicht"
+        ]
+      },
+      "Speakers": {
+        "msgid": "Speakers",
+        "msgstr": [
+          "Vortragende"
+        ]
+      },
+      "Sponsor": {
+        "msgid": "Sponsor",
+        "msgstr": [
+          "Unterstützer"
+        ]
+      },
+      "Sponsors": {
+        "msgid": "Sponsors",
+        "msgstr": [
+          "Unterstützer"
+        ]
+      },
+      "Staging": {
+        "msgid": "Staging",
+        "msgstr": [
+          "Aufstellung"
+        ]
+      },
+      "Standard aspect ratio is 13:5. Tick to maintain aspect ratio.": {
+        "msgid": "Standard aspect ratio is 13:5. Tick to maintain aspect ratio.",
+        "msgstr": [
+          "Das Standardseitenverhältnis ist 13:5. Aktivieren Sie dieses Kontrollkästchen, um das Seitenverhältnis beizubehalten."
+        ]
+      },
+      "Standard aspect ratio is 5:2. Tick to maintain aspect ratio.": {
+        "msgid": "Standard aspect ratio is 5:2. Tick to maintain aspect ratio.",
+        "msgstr": [
+          "Das Standardseitenverhältnis ist 13:5. Aktivieren Sie dieses Kontrollkästchen, um das Seitenverhältnis beizubehalten."
+        ]
+      },
+      "Start": {
+        "msgid": "Start",
+        "msgstr": [
+          "Starten"
+        ]
+      },
+      "Start Time": {
+        "msgid": "Start Time",
+        "msgstr": [
+          "Startzeit"
+        ]
+      },
+      "Starts": {
+        "msgid": "Starts",
+        "msgstr": [
+          "Beginnt"
+        ]
+      },
+      "State": {
+        "msgid": "State",
+        "msgstr": [
+          "Zustand"
+        ]
+      },
+      "State/Province": {
+        "msgid": "State/Province",
+        "msgstr": [
+          "Bundesland"
+        ]
+      },
+      "Storage": {
+        "msgid": "Storage",
+        "msgstr": [
+          "Speicherung"
+        ]
+      },
+      "Stripe Keys": {
+        "msgid": "Stripe Keys",
+        "msgstr": [
+          "Stripe-Schlüssel"
+        ]
+      },
+      "Submit": {
+        "msgid": "Submit",
+        "msgstr": [
+          "Absenden"
+        ]
+      },
+      "Submitted": {
+        "msgid": "Submitted",
+        "msgstr": [
+          "Übermittelt"
+        ]
+      },
+      "Submitted Sessions": {
+        "msgid": "Submitted Sessions",
+        "msgstr": [
+          "Eingereichte Sitzungen"
+        ]
+      },
+      "Subtotal": {
+        "msgid": "Subtotal",
+        "msgstr": [
+          "Zwischensumme"
+        ]
+      },
+      "Success": {
+        "msgid": "Success",
+        "msgstr": [
+          "Erfolg"
+        ]
+      },
+      "Super Admin": {
+        "msgid": "Super Admin",
+        "msgstr": [
+          "SuperAdmin"
+        ]
+      },
+      "System Images": {
+        "msgid": "System Images",
+        "msgstr": [
+          "Systembilder"
+        ]
+      },
+      "System Logs": {
+        "msgid": "System Logs",
+        "msgstr": [
+          "Systemprotokolle"
+        ]
+      },
+      "System Role": {
+        "msgid": "System Role",
+        "msgstr": [
+          "Systemfunktionen"
+        ]
+      },
+      "System Roles": {
+        "msgid": "System Roles",
+        "msgstr": [
+          "Systemfunktionen"
+        ]
+      },
+      "Tax ID": {
+        "msgid": "Tax ID",
+        "msgstr": [
+          "Steuer-ID"
+        ]
+      },
+      "Tax Invoices": {
+        "msgid": "Tax Invoices",
+        "msgstr": [
+          "Steuerrechnungen"
+        ]
+      },
+      "The simplest way to create events.": {
+        "msgid": "The simplest way to create events.",
+        "msgstr": [
+          "Die einfachste Weise, Veranstaltungen zu erstellen."
+        ]
+      },
+      "This Month": {
+        "msgid": "This Month",
+        "msgstr": [
+          "Diesen Monat"
+        ]
+      },
+      "This Week": {
+        "msgid": "This Week",
+        "msgstr": [
+          "Diese Woche"
+        ]
+      },
+      "This Weekend": {
+        "msgid": "This Weekend",
+        "msgstr": [
+          "Dieses Wochenende"
+        ]
+      },
+      "Thumbnail Size": {
+        "msgid": "Thumbnail Size",
+        "msgstr": [
+          "Größe der Miniaturansichten"
+        ]
+      },
+      "Ticket Description": {
+        "msgid": "Ticket Description",
+        "msgstr": [
+          "Beschreibung des Tickets"
+        ]
+      },
+      "Ticket Fees": {
+        "msgid": "Ticket Fees",
+        "msgstr": [
+          "Ticketgebühren"
+        ]
+      },
+      "Ticket Holder": {
+        "msgid": "Ticket Holder",
+        "msgstr": [
+          "Ticketinhaber"
+        ]
+      },
+      "Ticket Name": {
+        "msgid": "Ticket Name",
+        "msgstr": [
+          "Name des Ticket"
+        ]
+      },
+      "Ticket Type": {
+        "msgid": "Ticket Type",
+        "msgstr": [
+          "Tickettyp"
+        ]
+      },
+      "Tickets Capacity Set": {
+        "msgid": "Tickets Capacity Set",
+        "msgstr": [
+          "Ticketkapazität festlegen"
+        ]
+      },
+      "Tickets sold": {
+        "msgid": "Tickets sold",
+        "msgstr": [
+          "Tickets ausverkauft"
+        ]
+      },
+      "Tickets Summary": {
+        "msgid": "Tickets Summary",
+        "msgstr": [
+          "Ticketübersicht"
+        ]
+      },
+      "Timezone": {
+        "msgid": "Timezone",
+        "msgstr": [
+          "Zeitzone"
+        ]
+      },
+      "Title": {
+        "msgid": "Title",
+        "msgstr": [
+          "Titel"
+        ]
+      },
+      "To": {
+        "msgid": "To",
+        "msgstr": [
+          "An"
+        ]
+      },
+      "to activate this module.": {
+        "msgid": "to activate this module.",
+        "msgstr": [
+          "um dieses Modul zu aktivieren."
+        ]
+      },
+      "Today": {
+        "msgid": "Today",
+        "msgstr": [
+          "Heute"
+        ]
+      },
+      "Tomorrow": {
+        "msgid": "Tomorrow",
+        "msgstr": [
+          "Morgen"
+        ]
+      },
+      "Top Bar Right Corner": {
+        "msgid": "Top Bar Right Corner",
+        "msgstr": [
+          "Obere Leiste - Rechte Ecke"
+        ]
+      },
+      "Total": {
+        "msgid": "Total",
+        "msgstr": [
+          "Summe"
+        ]
+      },
+      "Total Orders": {
+        "msgid": "Total Orders",
+        "msgstr": [
+          "Anzahl der Bestellungen"
+        ]
+      },
+      "Total Sales": {
+        "msgid": "Total Sales",
+        "msgstr": [
+          "Gesamtbetrag"
+        ]
+      },
+      "Total Tickets": {
+        "msgid": "Total Tickets",
+        "msgstr": [
+          "Anzahl der Tickets"
+        ]
+      },
+      "Track Organizer": {
+        "msgid": "Track Organizer",
+        "msgstr": [
+          "Themen-Organisator"
+        ]
+      },
+      "Tracking ID": {
+        "msgid": "Tracking ID",
+        "msgstr": [
+          "Tracking-ID"
+        ]
+      },
+      "Tracks": {
+        "msgid": "Tracks",
+        "msgstr": [
+          "Themen"
+        ]
+      },
+      "Translations": {
+        "msgid": "Translations",
+        "msgstr": [
+          "Übersetzungen"
+        ]
+      },
+      "Type": {
+        "msgid": "Type",
+        "msgstr": [
+          "Typ"
+        ]
+      },
+      "Unpublish": {
+        "msgid": "Unpublish",
+        "msgstr": [
+          "Veröffentlichung aufheben"
+        ]
+      },
+      "Unpublish Schedule": {
+        "msgid": "Unpublish Schedule",
+        "msgstr": [
+          "Unveröffentlichter Zeitplan"
+        ]
+      },
+      "Unread": {
+        "msgid": "Unread",
+        "msgstr": [
+          "Ungelesen"
+        ]
+      },
+      "Unscheduled Sessions": {
+        "msgid": "Unscheduled Sessions",
+        "msgstr": [
+          "Außerplanmäßige Sitzungen"
+        ]
+      },
+      "Unverified User": {
+        "msgid": "Unverified User",
+        "msgstr": [
+          "Ungeprüfter Benutzer"
+        ]
+      },
+      "Upcoming Events": {
+        "msgid": "Upcoming Events",
+        "msgstr": [
+          "Zukünftige Veranstaltungen"
+        ]
+      },
+      "Update": {
+        "msgid": "Update",
+        "msgstr": [
+          "Aktualisieren"
+        ]
+      },
+      "Update Image": {
+        "msgid": "Update Image",
+        "msgstr": [
+          "Bild aktualisieren"
+        ]
+      },
+      "Update System Roles": {
+        "msgid": "Update System Roles",
+        "msgstr": [
+          "Systemfunktionen aktualisieren"
+        ]
+      },
+      "Updates about events": {
+        "msgid": "Updates about events",
+        "msgstr": [
+          "Aktualisierungen der Veranstaltungen"
+        ]
+      },
+      "Upload": {
+        "msgid": "Upload",
+        "msgstr": [
+          "Hochladen"
+        ]
+      },
+      "User Email": {
+        "msgid": "User Email",
+        "msgstr": [
+          "E-Mail-Adresse des Benutzers"
+        ]
+      },
+      "User Permissions": {
+        "msgid": "User Permissions",
+        "msgstr": [
+          "Benutzerberechtigungen"
+        ]
+      },
+      "Username": {
+        "msgid": "Username",
+        "msgstr": [
+          "Benutzername"
+        ]
+      },
+      "Users": {
+        "msgid": "Users",
+        "msgstr": [
+          "Benutzer"
+        ]
+      },
+      "Valid from": {
+        "msgid": "Valid from",
+        "msgstr": [
+          "Gültig ab"
+        ]
+      },
+      "Verified User": {
+        "msgid": "Verified User",
+        "msgstr": [
+          "Bestätigter Benutzer"
+        ]
+      },
+      "View attendees": {
+        "msgid": "View attendees",
+        "msgstr": [
+          "Teilnehmer anzeigen"
+        ]
+      },
+      "View Attendees": {
+        "msgid": "View Attendees",
+        "msgstr": [
+          "Teilnehmer anzeigen"
+        ]
+      },
+      "View orders": {
+        "msgid": "View orders",
+        "msgstr": [
+          "Bestellungen anzeigen"
+        ]
+      },
+      "View Orders": {
+        "msgid": "View Orders",
+        "msgstr": [
+          "Bestellungen anzeigen"
+        ]
+      },
+      "View Reports": {
+        "msgid": "View Reports",
+        "msgstr": [
+          "Berichte anzeigen"
+        ]
+      },
+      "When & Where": {
+        "msgid": "When & Where",
+        "msgstr": [
+          "Wann und Wo"
+        ]
+      },
+      "Withdraw Proposal": {
+        "msgid": "Withdraw Proposal",
+        "msgstr": [
+          "Vorschlag zurückziehen"
+        ]
+      },
+      "YES, accept payment by Cheque": {
+        "msgid": "YES, accept payment by Cheque",
+        "msgstr": [
+          "JA, Zahlung per Scheck akzeptieren"
+        ]
+      },
+      "YES, accept payment by Telegraphic Transfer(TT) / Bank Transfer": {
+        "msgid": "YES, accept payment by Telegraphic Transfer(TT) / Bank Transfer",
+        "msgstr": [
+          "JA, Zahlung per Telegrafieüberweisung (TT) / Banküberweisung akzeptieren"
+        ]
+      },
+      "YES, accept payment through Stripe": {
+        "msgid": "YES, accept payment through Stripe",
+        "msgstr": [
+          "Ja, Zahlung per Stripe akzeptieren"
+        ]
+      },
+      "Zip Code": {
+        "msgid": "Zip Code",
+        "msgstr": [
+          "Postleitzahl"
+        ]
+      }
+    }
+  }
+}
